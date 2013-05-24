@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/local/google/home/kevinwestern/code/gsp-angular/app'
+let g:netrw_dirhist_2='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts'
+let g:netrw_dirhist_3='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts/grape'
+let g:netrw_dirhist_4='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts'
+let g:netrw_dirhist_5='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts/server'
+let g:netrw_dirhist_6='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts'
+let g:netrw_dirhist_7='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts/server/servlet'
+let g:netrw_dirhist_8='/usr/local/google/home/kevinwestern/clients/gsp/google3/javatests/com/google/corp/salespayouts/angular/unit/services'
+let g:netrw_dirhist_9='/usr/local/google/home/kevinwestern/clients/gsp/google3/java/com/google/corp/salespayouts/angular/scripts/controllers'
